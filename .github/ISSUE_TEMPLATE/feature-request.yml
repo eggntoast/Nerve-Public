@@ -1,0 +1,17 @@
+name: Feature request
+description: Suggest a focused improvement to Nerve
+title: "[Feature]: "
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: What problem would this solve?
+    validations:
+      required: true
+  - type: textarea
+    id: suggestion
+    attributes:
+      label: Suggested behavior
+      description: Describe the outcome you want and which client you use.
+    validations:
+      required: true

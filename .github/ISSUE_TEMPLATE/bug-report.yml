@@ -1,0 +1,51 @@
+name: Bug report
+description: Report a reproducible Nerve problem
+title: "[Bug]: "
+body:
+  - type: markdown
+    attributes:
+      value: "Please omit account names, private paths and full SavedVariables files."
+  - type: input
+    id: version
+    attributes:
+      label: Nerve version and package build
+      description: Find the version and build in Nerve Settings → About.
+    validations:
+      required: true
+  - type: dropdown
+    id: flavor
+    attributes:
+      label: Nerve package
+      options:
+        - Forever
+        - TBC Anniversary
+    validations:
+      required: true
+  - type: input
+    id: client
+    attributes:
+      label: Exact game version and build
+    validations:
+      required: true
+  - type: textarea
+    id: reproduce
+    attributes:
+      label: Steps to reproduce
+      description: Include the ability, style and whether both sides use the same settings, if relevant.
+    validations:
+      required: true
+  - type: textarea
+    id: result
+    attributes:
+      label: Expected and actual behavior
+    validations:
+      required: true
+  - type: textarea
+    id: errors
+    attributes:
+      label: Lua error text, if any
+      render: text
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Optional screenshot or other relevant detail
