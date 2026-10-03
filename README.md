@@ -1,68 +1,51 @@
-![Nerve — Make every opening unmistakable.](assets/banner.png)
+[![Nerve — customizable ability overlays, animated artwork showcase](assets/nerve-showcase-opt-v2.gif)](https://www.curseforge.com/wow/addons/nerve)
 
-# Your abilities. Your look.
+Nerve adds customizable ability overlays for **TBC Anniversary** and **WoW Forever**. Choose your styles and colors, then adjust the look directly on your character.
 
-Give Execute, Overpower and Revenge a look of their own. Choose from twelve Warrior styles, pick your colors and fine-tune the overlays directly on your character.
+**[Download on CurseForge](https://www.curseforge.com/wow/addons/nerve)** · [Style gallery](docs/style-gallery.md) · [Setup guide](docs/getting-started.md) · [Report a problem](https://github.com/eggntoast/Nerve-Public/issues/new/choose) · [Changelog](CHANGELOG.md)
 
-[Downloads](docs/downloads.md) · [Explore the styles](#twelve-styles-one-warrior) · [Getting started](docs/getting-started.md) · [Get help](https://github.com/eggntoast/Nerve-Public/issues/new/choose) · [Changelog](CHANGELOG.md)
+Currently supports **Warrior: Execute, Overpower and Revenge**.
 
-## Twelve styles. One Warrior.
+## See the styles
 
-Forged steel, fractured energy and sharp silhouettes. Pick one favorite, shuffle your collection or cycle through it in order.
+[![Bloodfang in Obsidian Rose and Impaler in Crimson — rendered animation preview](assets/nerve-effects-02.gif)](docs/style-gallery.md)
 
-![All twelve Warrior styles, displayed as static crimson pairs.](assets/style-gallery.png)
+*Bloodfang in Obsidian Rose and Impaler in Crimson. Rendered preview, not in-game footage.*
 
-Impaler · Skullforge · Warstorm · Dreadwake · Headsman · Bloodfang · Shatterspine · Ruinhammer · Rageburst · Oathbreaker · Iron Rift · Execution
-
-*Static artwork previews from the current approved textures. In-game lighting, motion and particles are not shown here.*
+[Explore all twelve styles and more colors →](docs/style-gallery.md)
 
 ## Make it yours
 
-- **Nine colors, plus Disco.** Choose a fixed color or let Disco choose a new color when the overlay becomes active.
-- **One style, Shuffle or In order.** Build a collection for each ability and choose how it changes.
-- **Together or independently.** Keep both sides the same, or give left and right their own appearance.
-- **Try it on your character.** Adjust size, vertical position, shake and more while viewing your HUD preview.
-- **Keep your setup.** Save backups and copy settings from another compatible character.
-- **A little atmosphere.** Optional window effects decorate the settings windows; their toggle does not turn off your ability effects.
+* **12 styles, 9 colors and Disco.** Build a collection for each ability. Disco picks a new color when an overlay becomes active.
+* **One style, Shuffle or In order.** Keep a favorite or cycle through your collection.
+* **Independent sides.** Match the left and right overlays or customize each separately.
+* **Try it on your character.** Adjust size, position, shake and appearance before returning to play.
 
-## See the direction
+[![Nerve’s in-game TBC settings showing styles, colors, size, shake and the paired preview](assets/customize-your-overlays.png)](assets/customize-your-overlays.png)
 
-![Window decoration concept — browser mockup, not in-game footage.](assets/window-motion-concept.gif)
+Open **/nerve** or click the minimap icon to get started. The [setup guide](docs/getting-started.md) covers installation, previews and saving your setup.
 
-[About this motion preview](docs/motion-showcase.md)
+## Choose your version
 
-*Browser concept, not in-game footage. This concept uses earlier interface screenshots to demonstrate the approved branding and window treatment. Its older controls are not a current UI guide. A launch showcase should use footage from the accepted in-game build.*
+| Game client | Download | Settings |
+| --- | --- | --- |
+| TBC Anniversary | [TBC 0.1.0](https://www.curseforge.com/wow/addons/nerve/files/9036114) | Separate Arms, Fury and Protection setups, with automatic or manual switching. |
+| WoW Forever | [Forever 0.1.0](https://www.curseforge.com/wow/addons/nerve/files/9036121) | Per-character settings. |
 
-## Choose your client
+Choose the version that matches your client. GitHub’s **Code → Download ZIP** is not an installable addon.
 
-| Edition | Current scope |
-| --- | --- |
-| TBC Anniversary | Warrior: Execute, Overpower and Revenge. Separate Arms, Fury and Protection setups, with automatic or manual selection. |
-| WoW Forever | Warrior: Execute, Overpower and Revenge. Per-character settings. Victory Rush support is implemented but still awaits native verification. |
+Victory Rush in WoW Forever still needs in-game testing. See [downloads and current support](docs/downloads.md).
 
-Only Warrior is currently supported. Display priority controls which overlay is visible; it is not a rotation guide.
+## Class support
 
-## Getting started
+**0.1.0 is the Warrior release**, with twelve styles for the supported abilities. The plan is to add the other classes one at a time until all nine are supported. For now, Nerve supports Warrior only.
 
-1. Download the package matching your client when the release is available.
-2. Place the ZIP's `Nerve` folder in `Interface/AddOns` and enable the addon.
-3. Open `/nerve` or click the minimap icon. Select an ability and choose your style.
-4. Use **Try on character** to adjust the look, then **Stop preview** when finished. Entering combat also ends the manual preview.
+Display priority chooses which overlay appears. Nerve isn’t a rotation guide.
 
-Use the packaged addon ZIP. GitHub's automatic source archives are not the installable addon.
+## Help and updates
 
-## Downloads
+[Get help](docs/help.md) · [Report a problem](https://github.com/eggntoast/Nerve-Public/issues/new/choose) · [Read the changelog](CHANGELOG.md)
 
-Nerve 0.1.0 is currently a release candidate. Public downloads will be linked here once the release is approved. Choose the correct client build; do not combine TBC and Forever packages.
+This repository is Nerve’s public gallery and help hub. Download the addon from [CurseForge](https://www.curseforge.com/wow/addons/nerve).
 
-## Get help
-
-When reporting a problem, include the version and build shown in **About**, your client version, what happened and any Lua error. A screenshot can help; hide character or account information you do not want to share.
-
-[Report a problem or suggest an improvement](https://github.com/eggntoast/Nerve-Public/issues/new/choose). See the [changelog](CHANGELOG.md) for player-facing updates. No full SavedVariables upload is needed to start a report.
-
-## Credits and licensing
-
-Nerve by **NS**. Original code and documentation use the [MIT license](LICENSE). Artwork and branding have [separate reserved-rights terms](ASSET_LICENSE.md).
-
-This repository currently hosts the presentation and player help. Released addon source and packages will follow separately; no installable addon is included yet.
+Made by **NS**. Code and documentation use the [MIT license](LICENSE). Artwork and branding have [separate terms](ASSET_LICENSE.md).

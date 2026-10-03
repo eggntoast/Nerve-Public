@@ -1,9 +1,11 @@
-# Window atmosphere — concept preview
+# Earlier window concept
 
-![Browser concept, not in-game footage.](../assets/window-motion-concept.gif)
+This is an earlier design preview, kept for reference. See the [current style gallery](style-gallery.md) and [in-game settings screenshot](getting-started.md) for the current presentation.
 
-This loop records the approved **browser mockup**: slow fading crimson highlights, restrained edge embers and subtle interior dust. Its background is an earlier Nerve screenshot. The older controls are not a guide to the current interface.
+![Earlier browser mockup of Nerve’s window decoration — not in-game footage](../assets/window-motion-concept.gif)
 
-It is not a recording of the addon running in World of Warcraft and does not establish in-game performance or final native appearance. Overlay artwork in this concept is static. A launch showcase will use footage from an accepted game build.
+This browser mockup shows the proposed slow crimson highlights, edge embers and interior dust over an older Nerve screenshot. The overlay artwork is static, and the older controls are not a guide to the current interface.
+
+It is not a recording from World of Warcraft and does not establish the addon’s in-game appearance or performance.
 
 [Back to Nerve](../README.md)

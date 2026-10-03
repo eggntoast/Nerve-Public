@@ -1,16 +1,17 @@
 # Changelog
 
-## 0.1.0 — unreleased
+## 0.1.0 — First release
 
-The first class milestone focuses on Warrior:
+Warrior overlays for **Execute, Overpower and Revenge** in TBC Anniversary and WoW Forever.
 
-- Twelve styles, nine colors and Disco.
-- Per-ability collections with One style, Shuffle and In order.
-- Independent left/right appearance and on-character previews.
-- Backups and copying settings between compatible characters.
-- Separate TBC spec setups; per-character settings in Forever.
-- Refined branding and optional window atmosphere.
+* Twelve styles, nine colors and Disco.
+* A separate style collection for each ability, with One style, Shuffle and In order.
+* Matching or independent left and right sides.
+* On-character previews to adjust size, position, shake and appearance.
+* Backups and copying settings between compatible characters.
+* Separate Arms, Fury and Protection setups in TBC.
+* Optional window effects.
 
-The release candidate is still being evaluated. Forever Victory Rush awaits in-game verification. No public addon package has been released.
+Victory Rush in WoW Forever still needs in-game testing.
 
-[Back to Nerve](README.md) · [Downloads](docs/downloads.md)
+[Download 0.1.0](docs/downloads.md) · [Back to Nerve](README.md)

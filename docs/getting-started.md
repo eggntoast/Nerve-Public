@@ -1,24 +1,33 @@
 # Getting started
 
-Public packages are not available yet. Use these instructions once a release is available on the [downloads page](downloads.md).
+Download the [TBC or Forever version](downloads.md) that matches your game client.
 
-1. Choose the package for your client: TBC Anniversary or WoW Forever.
-2. Extract the ZIP's **Nerve** folder into your client's `Interface/AddOns` folder. Enable Nerve in the game's addon list.
-3. Open **/nerve** or use the minimap icon.
-4. Select an ability, choose a style and set its color. **Disco** chooses a new color when the overlay becomes active.
-5. Choose **One style**, **Shuffle** or **In order** for your collection.
-6. Use **Try on character** to adjust the look. Select **Stop preview** when finished; entering combat also stops the manual preview.
+## Install Nerve
 
-## Your setup
+1. Extract the ZIP’s **Nerve** folder into your client’s `Interface/AddOns` folder.
+2. Enable Nerve in the game’s addon list.
+3. Open **/nerve** or click the minimap icon.
 
-**Same on both sides** keeps left and right together. Turn it off to edit them independently. **Backups** holds saved setups and copying from another compatible character. **Settings → Reset** contains the reset controls; read the scope before confirming.
+GitHub’s **Code → Download ZIP** is not the addon package. Use the [CurseForge download](https://www.curseforge.com/wow/addons/nerve).
 
-TBC has separate Arms, Fury and Protection setups with automatic or manual selection. Forever keeps per-character settings.
+## Choose your look
 
-Window effects decorate the settings windows. Their toggle does not disable the ability overlays' effects.
+1. Select an ability and choose a style.
+2. Pick a color, or use **Disco** to choose a new color when the overlay becomes active.
+3. Choose **One style**, **Shuffle** or **In order** for your collection.
+4. Select **Try on character** to adjust size, position, shake and appearance.
+5. Use **Stop preview** when finished. Entering combat also ends the preview.
 
-## Need help?
+[![Nerve’s in-game TBC settings showing style collections, colors and the paired preview](../assets/customize-your-overlays.png)](../assets/customize-your-overlays.png)
 
-[Report a problem](https://github.com/eggntoast/Nerve-Public/issues/new/choose). Include the version/build from **About**, your game version, what happened and any Lua error. Hide personal information in screenshots. Do not upload a full SavedVariables file unless specifically requested and reviewed for private information.
+**Same on both sides** keeps the left and right overlays together. Turn it off to edit each side separately.
 
-[Back to Nerve](../README.md) · [Downloads](downloads.md)
+## Keep your setup
+
+**Backups** holds saved setups and copying from another compatible character. Reset controls are under **Settings → Reset**; check what will be reset before confirming.
+
+TBC has separate **Arms, Fury and Protection** setups, with automatic or manual switching. Forever keeps per-character settings.
+
+**Window effects** controls decoration in the settings windows. Turning it off leaves the ability effects running.
+
+[Browse the styles](style-gallery.md) · [Get help](help.md) · [Back to Nerve](../README.md)
