@@ -22,6 +22,12 @@ GitHub’s **Code → Download ZIP** is not the addon package. Use the [CurseFor
 
 **Same on both sides** keeps the left and right overlays together. Turn it off to edit each side separately.
 
+## Fade and combat visibility
+
+In WoW Forever, select **Victory Rush** and open **Display options** to find **Fade with remaining time**. It is on by default. The overlay fades with the remaining buff time when that timing is available; otherwise, it stays steady. Turn the option off if you prefer a steady overlay.
+
+**Settings → Behavior → Only in combat** hides overlays outside combat, even while an ability remains available. It is off for new installations; updating preserves your existing choice.
+
 ## Keep your setup
 
 **Backups** holds saved setups and copying from another compatible character. Reset controls are under **Settings → Reset**; check what will be reset before confirming.

@@ -1,5 +1,21 @@
 # Changelog
 
+## 0.1.1 — October 9, 2026
+
+### Both versions
+
+* Fixed a dropdown error when changing interface size and improved clicking outside menus.
+* Fixed a keyboard-input error when entering combat with Nerve settings open.
+* **Only in combat** now defaults to off for new installations. Existing settings are kept.
+* Added a tooltip explaining that **Only in combat** hides overlays outside combat, even when an ability is available.
+
+### WoW Forever
+
+* Fixed Victory Rush overlays not appearing during combat or disappearing after Charge and other attacks.
+* Fixed Victory Rush overlays not returning after using the ability and earning another Victorious buff.
+* Added **Fade with remaining time** for Victory Rush, enabled by default. The overlay fades with the remaining buff time when that timing is available; otherwise, it stays steady.
+* Updated diagnostics to use the Nerve name and explain why an overlay is hidden.
+
 ## 0.1.0 — First release
 
 Warrior overlays for **Execute, Overpower and Revenge** in TBC Anniversary and WoW Forever.
@@ -14,4 +30,4 @@ Warrior overlays for **Execute, Overpower and Revenge** in TBC Anniversary and W
 
 Victory Rush in WoW Forever still needs in-game testing.
 
-[Download 0.1.0](docs/downloads.md) · [Back to Nerve](README.md)
+[Downloads](docs/downloads.md) · [Back to Nerve](README.md)

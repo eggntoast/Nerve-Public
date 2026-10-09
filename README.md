@@ -4,7 +4,7 @@ Nerve adds customizable ability overlays for **TBC Anniversary** and **WoW Forev
 
 **[Download on CurseForge](https://www.curseforge.com/wow/addons/nerve)** · [Style gallery](docs/style-gallery.md) · [Setup guide](docs/getting-started.md) · [Report a problem](https://github.com/eggntoast/Nerve-Public/issues/new/choose) · [Changelog](CHANGELOG.md)
 
-Currently supports **Warrior: Execute, Overpower and Revenge**.
+Currently supports **Warrior: Execute, Overpower and Revenge**, plus **Victory Rush in WoW Forever**.
 
 ## See the styles
 
@@ -29,16 +29,16 @@ Open **/nerve** or click the minimap icon to get started. The [setup guide](docs
 
 | Game client | Download | Settings |
 | --- | --- | --- |
-| TBC Anniversary | [TBC 0.1.0](https://www.curseforge.com/wow/addons/nerve/files/9036114) | Separate Arms, Fury and Protection setups, with automatic or manual switching. |
-| WoW Forever | [Forever 0.1.0](https://www.curseforge.com/wow/addons/nerve/files/9036121) | Per-character settings. |
+| TBC Anniversary | [TBC 0.1.1](https://www.curseforge.com/wow/addons/nerve/files/9108663) | Separate Arms, Fury and Protection setups, with automatic or manual switching. |
+| WoW Forever | [Forever 0.1.1](https://www.curseforge.com/wow/addons/nerve/files/9108629) | Per-character settings. |
 
 Choose the version that matches your client. GitHub’s **Code → Download ZIP** is not an installable addon.
 
-Victory Rush in WoW Forever still needs in-game testing. See [downloads and current support](docs/downloads.md).
+See [downloads and current support](docs/downloads.md) for details.
 
 ## Class support
 
-**0.1.0 is the Warrior release**, with twelve styles for the supported abilities. The plan is to add the other classes one at a time until all nine are supported. For now, Nerve supports Warrior only.
+Nerve currently supports **Warrior**, with twelve styles. The plan is to add the other classes one at a time until all nine are supported.
 
 Display priority chooses which overlay appears. Nerve isn’t a rotation guide.
 

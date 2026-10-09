@@ -6,6 +6,14 @@ Check that you installed the [version for your game client](downloads.md). Nerve
 
 For installation and previews, start with the [setup guide](getting-started.md).
 
+## If an overlay is missing
+
+* Select the ability and check that **Enabled** is on.
+* If you want overlays outside combat, turn off **Settings → Behavior → Only in combat**.
+* Check the ability order and **Display options**. Another active ability may have priority.
+
+In WoW Forever, **/nerve diag** shows ability status and explains why the Victory Rush overlay is hidden. Include the relevant output when reporting a problem.
+
 ## Report a problem
 
 [Open a bug report](https://github.com/eggntoast/Nerve-Public/issues/new/choose) and include:
@@ -23,8 +31,8 @@ Hide personal information in screenshots. You don’t need to upload a full Save
 
 ## Current limits
 
-* Warrior is the only available class in 0.1.0.
-* Victory Rush in WoW Forever still needs in-game testing.
+* Warrior is the only available class; the other classes are planned.
+* Victory Rush is supported in WoW Forever. Its fade needs readable buff timing; when the game does not provide that timing, the overlay stays steady.
 * The animated style previews are rendered outside WoW and haven’t been compared with the game yet. The TBC settings image is an in-game screenshot.
 
 [Changelog](../CHANGELOG.md) · [Downloads](downloads.md) · [Back to Nerve](../README.md)
