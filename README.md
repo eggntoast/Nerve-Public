@@ -29,6 +29,8 @@ Open **/nerve** or click the minimap icon to get started. The [setup guide](docs
 
 ## Download
 
+**Startup issue after the latest Forever update:** Nerve 0.1.2 can fail to open because the game no longer supplies a realm name. A correction is being tested. Keep your saved settings; there is no need to delete them.
+
 [**Nerve Forever 0.1.2**](https://www.curseforge.com/wow/addons/nerve/files/9617329) is the latest release. Your settings are kept for each character.
 
 GitHub’s **Code → Download ZIP** contains this gallery and its help pages, not an installable addon.

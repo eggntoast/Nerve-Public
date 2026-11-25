@@ -4,6 +4,8 @@
 
 New updates are for **WoW Forever only**. The TBC version is no longer maintained.
 
+**Current startup issue:** 0.1.2 can fail to open after the latest Forever update. A correction is being tested. Keep your saved settings. See [help](help.md#if-nerve-will-not-open).
+
 [All files and updates on CurseForge](https://www.curseforge.com/wow/addons/nerve/files/all)
 
 Install the **Nerve** folder from the Forever ZIP. GitHub’s **Code → Download ZIP** contains this gallery and its help pages, not an installable addon.
