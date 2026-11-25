@@ -1,5 +1,14 @@
 # Changelog
 
+## 0.1.3 — November 25, 2026
+
+### WoW Forever
+
+* Fixed Nerve failing to start after the latest WoW Forever update.
+* Existing character settings are kept, with a one-time profile choice when needed.
+* Improved startup recovery and error reporting.
+* Fixed refresh errors that could leave overlays, settings or previews stuck.
+
 ## 0.1.2 — November 14, 2026
 
 ### WoW Forever

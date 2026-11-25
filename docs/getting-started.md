@@ -34,6 +34,8 @@ The overlay stays hidden while Victory Rush is on its own cooldown, even if you 
 
 ## Keep your setup
 
+When updating from an older version, Nerve may ask which settings to use. Choose your existing character's settings and click **Use these settings**. This is a one-time choice; your settings and backups are kept.
+
 **Backups** holds saved setups and copying from another compatible character. Reset controls are under **Settings → Reset**; check what will be reset before confirming.
 
 Your settings are kept separately for each character.

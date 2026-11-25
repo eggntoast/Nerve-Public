@@ -1,10 +1,10 @@
 # Downloads
 
-**[Nerve Forever 0.1.2](https://www.curseforge.com/wow/addons/nerve/files/9617329)** is the latest release on CurseForge, listed for WoW Forever **1.60.1**.
+**[Nerve Forever 0.1.3](https://www.curseforge.com/wow/addons/nerve/files/9805157)** is the latest release on CurseForge, listed for WoW Forever **1.60.1**.
 
 New updates are for **WoW Forever only**. The TBC version is no longer maintained.
 
-**Current startup issue:** 0.1.2 can fail to open after the latest Forever update. The fix has been tested in WoW and is awaiting release. Keep your saved settings. See [help](help.md#if-nerve-will-not-open).
+Version **0.1.3** fixes startup after the latest Forever update. You can update without deleting your saved settings.
 
 [All files and updates on CurseForge](https://www.curseforge.com/wow/addons/nerve/files/all)
 
