@@ -1,10 +1,10 @@
 [![Nerve — customizable ability overlays, animated artwork showcase](assets/nerve-showcase-opt-v2.gif)](https://www.curseforge.com/wow/addons/nerve)
 
-Nerve adds customizable ability overlays for **TBC Anniversary** and **WoW Forever**. Choose your styles and colors, then adjust the look directly on your character.
+Nerve adds customizable ability overlays to **WoW Forever**. Choose your styles and colors, then adjust the look directly on your character.
 
 **[Download on CurseForge](https://www.curseforge.com/wow/addons/nerve)** · [Style gallery](docs/style-gallery.md) · [Setup guide](docs/getting-started.md) · [Report a problem](https://github.com/eggntoast/Nerve-Public/issues/new/choose) · [Changelog](CHANGELOG.md)
 
-Currently supports **Warrior: Execute, Overpower and Revenge**, plus **Victory Rush in WoW Forever**.
+Currently supports **Warrior: Execute, Overpower, Revenge and Victory Rush**.
 
 ## See the styles
 
@@ -21,24 +21,23 @@ Currently supports **Warrior: Execute, Overpower and Revenge**, plus **Victory R
 * **Independent sides.** Match the left and right overlays or customize each separately.
 * **Try it on your character.** Adjust size, position, shake and appearance before returning to play.
 
-[![Nerve’s in-game TBC settings showing styles, colors, size, shake and the paired preview](assets/customize-your-overlays.png)](assets/customize-your-overlays.png)
+[![Nerve’s settings in the older TBC version, showing styles, colors, size and shake](assets/customize-your-overlays.png)](assets/customize-your-overlays.png)
+
+*Settings shown in the older TBC version. New updates are for WoW Forever only; the TBC version is no longer maintained.*
 
 Open **/nerve** or click the minimap icon to get started. The [setup guide](docs/getting-started.md) covers installation, previews and saving your setup.
 
-## Choose your version
+## Download
 
-| Game client | Download | Settings |
-| --- | --- | --- |
-| TBC Anniversary | [TBC 0.1.1](https://www.curseforge.com/wow/addons/nerve/files/9108663) | Separate Arms, Fury and Protection setups, with automatic or manual switching. |
-| WoW Forever | [Forever 0.1.1](https://www.curseforge.com/wow/addons/nerve/files/9108629) | Per-character settings. |
+[**Nerve Forever 0.1.2**](https://www.curseforge.com/wow/addons/nerve/files/9617329) is the latest release. Your settings are kept for each character.
 
-Choose the version that matches your client. GitHub’s **Code → Download ZIP** is not an installable addon.
+GitHub’s **Code → Download ZIP** contains this gallery and its help pages, not an installable addon.
 
 See [downloads and current support](docs/downloads.md) for details.
 
 ## Class support
 
-Nerve currently supports **Warrior**, with twelve styles. The plan is to add the other classes one at a time until all nine are supported.
+Nerve is being built for all nine classes in WoW Forever, one class at a time. Currently, only **Warrior** is supported.
 
 Display priority chooses which overlay appears. Nerve isn’t a rotation guide.
 

@@ -1,5 +1,15 @@
 # Changelog
 
+## 0.1.2 — November 14, 2026
+
+### WoW Forever
+
+* Fixed Victory Rush overlays appearing while the ability was still on cooldown.
+* The overlay now respects cooldown readiness after a fresh kill or a reload.
+* Timed fades keep the buff's original expiration while the overlay is hidden.
+
+New updates are for WoW Forever only. The TBC version is no longer maintained.
+
 ## 0.1.1 — October 9, 2026
 
 ### Both versions

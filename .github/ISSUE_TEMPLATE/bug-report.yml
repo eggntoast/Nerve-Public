@@ -18,7 +18,7 @@ body:
       label: Nerve package
       options:
         - Forever
-        - TBC Anniversary
+        - TBC Anniversary (legacy; no longer maintained)
     validations:
       required: true
   - type: input

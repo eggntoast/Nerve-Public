@@ -1,6 +1,6 @@
 # Getting started
 
-Download the [TBC or Forever version](downloads.md) that matches your game client.
+Download the latest [Nerve Forever release](downloads.md). New updates are for WoW Forever only.
 
 ## Install Nerve
 
@@ -18,13 +18,17 @@ GitHub’s **Code → Download ZIP** is not the addon package. Use the [CurseFor
 4. Select **Try on character** to adjust size, position, shake and appearance.
 5. Use **Stop preview** when finished. Entering combat also ends the preview.
 
-[![Nerve’s in-game TBC settings showing style collections, colors and the paired preview](../assets/customize-your-overlays.png)](../assets/customize-your-overlays.png)
+[![Nerve’s settings in the older TBC version, showing style collections, colors and the paired preview](../assets/customize-your-overlays.png)](../assets/customize-your-overlays.png)
+
+*Settings shown in the older TBC version, which is no longer maintained.*
 
 **Same on both sides** keeps the left and right overlays together. Turn it off to edit each side separately.
 
 ## Fade and combat visibility
 
-In WoW Forever, select **Victory Rush** and open **Display options** to find **Fade with remaining time**. It is on by default. The overlay fades with the remaining buff time when that timing is available; otherwise, it stays steady. Turn the option off if you prefer a steady overlay.
+Select **Victory Rush** and open **Display options** to find **Fade with remaining time**. It is on by default. The overlay fades with the remaining buff time when that timing is available; otherwise, it stays steady. Turn the option off if you prefer a steady overlay.
+
+The overlay stays hidden while Victory Rush is on its own cooldown, even if you have a fresh Victorious buff. When it can appear again, the fade keeps the buff’s original expiration.
 
 **Settings → Behavior → Only in combat** hides overlays outside combat, even while an ability remains available. It is off for new installations; updating preserves your existing choice.
 
@@ -32,7 +36,7 @@ In WoW Forever, select **Victory Rush** and open **Display options** to find **F
 
 **Backups** holds saved setups and copying from another compatible character. Reset controls are under **Settings → Reset**; check what will be reset before confirming.
 
-TBC has separate **Arms, Fury and Protection** setups, with automatic or manual switching. Forever keeps per-character settings.
+Your settings are kept separately for each character.
 
 **Window effects** controls decoration in the settings windows. Turning it off leaves the ability effects running.
 

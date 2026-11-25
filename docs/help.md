@@ -2,9 +2,13 @@
 
 ## Before reporting a problem
 
-Check that you installed the [version for your game client](downloads.md). Nerve currently supports Warrior; the other classes are planned.
+Check that you installed the latest [Nerve Forever release](downloads.md). Nerve currently supports Warrior; the other classes are planned. The TBC version is no longer maintained.
 
 For installation and previews, start with the [setup guide](getting-started.md).
+
+## If Nerve will not open
+
+Restart the game or use **/reload** with Nerve enabled. If it still will not open, report the first Nerve Lua error and your game version and build. If **About** is unavailable, include the version you installed from CurseForge instead. Keep your saved settings; you do not need to delete them to report the problem.
 
 ## If an overlay is missing
 
@@ -12,7 +16,9 @@ For installation and previews, start with the [setup guide](getting-started.md).
 * If you want overlays outside combat, turn off **Settings → Behavior → Only in combat**.
 * Check the ability order and **Display options**. Another active ability may have priority.
 
-In WoW Forever, **/nerve diag** shows ability status and explains why the Victory Rush overlay is hidden. Include the relevant output when reporting a problem.
+Victory Rush stays hidden during its own cooldown, even when a fresh Victorious buff is present.
+
+**/nerve diag** shows ability status and explains why the Victory Rush overlay is hidden. Include the relevant output when reporting a problem.
 
 ## Report a problem
 
@@ -33,6 +39,6 @@ Hide personal information in screenshots. You don’t need to upload a full Save
 
 * Warrior is the only available class; the other classes are planned.
 * Victory Rush is supported in WoW Forever. Its fade needs readable buff timing; when the game does not provide that timing, the overlay stays steady.
-* The animated style previews are rendered outside WoW and haven’t been compared with the game yet. The TBC settings image is an in-game screenshot.
+* The animated style previews are rendered outside WoW and haven’t been compared with the game yet. The settings screenshot comes from the older TBC version.
 
 [Changelog](../CHANGELOG.md) · [Downloads](downloads.md) · [Back to Nerve](../README.md)
