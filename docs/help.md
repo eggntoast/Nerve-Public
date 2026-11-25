@@ -8,7 +8,7 @@ For installation and previews, start with the [setup guide](getting-started.md).
 
 ## If Nerve will not open
 
-A startup failure in **0.1.2** has been confirmed after the latest Forever update: the game no longer supplies the realm name that older profiles used. A correction is being tested. Keep your saved settings; deleting them will not fix this missing realm information.
+A startup failure in **0.1.2** has been confirmed after the latest Forever update: the game no longer supplies the realm name that older profiles used. The fix has been tested in WoW and is awaiting release. Keep your saved settings; deleting them will not fix this missing realm information.
 
 Restart the game or use **/reload** with Nerve enabled. If it still will not open, report the first Nerve Lua error and your game version and build. If **About** is unavailable, include the version you installed from CurseForge instead. Keep your saved settings; you do not need to delete them to report the problem.
 

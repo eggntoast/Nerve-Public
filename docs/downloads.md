@@ -4,7 +4,7 @@
 
 New updates are for **WoW Forever only**. The TBC version is no longer maintained.
 
-**Current startup issue:** 0.1.2 can fail to open after the latest Forever update. A correction is being tested. Keep your saved settings. See [help](help.md#if-nerve-will-not-open).
+**Current startup issue:** 0.1.2 can fail to open after the latest Forever update. The fix has been tested in WoW and is awaiting release. Keep your saved settings. See [help](help.md#if-nerve-will-not-open).
 
 [All files and updates on CurseForge](https://www.curseforge.com/wow/addons/nerve/files/all)
 
